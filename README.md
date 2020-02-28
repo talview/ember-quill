@@ -1,6 +1,7 @@
 # Ember-Quill
 
-This README outlines the details of collaborating on this Ember addon.
+This project was created by forking ember-quill because they were using an older build of Quill Text Editor - Quill.js (1.3.6) which had a potential threat to reverse tabnabbing attacks. This project implements the latest build of Quill.js (1.3.7).
+The develop branch of this project is being used to install ember-quill package with latest version of Quill.js
 
 ## Installation
 
